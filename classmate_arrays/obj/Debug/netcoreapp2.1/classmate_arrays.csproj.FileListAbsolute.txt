@@ -1,0 +1,11 @@
+/home/master/Documents/bootcamp/2020.01.28 Classmate_Arrays/classmate_arrays/bin/Debug/netcoreapp2.1/classmate_arrays.deps.json
+/home/master/Documents/bootcamp/2020.01.28 Classmate_Arrays/classmate_arrays/bin/Debug/netcoreapp2.1/classmate_arrays.runtimeconfig.json
+/home/master/Documents/bootcamp/2020.01.28 Classmate_Arrays/classmate_arrays/bin/Debug/netcoreapp2.1/classmate_arrays.runtimeconfig.dev.json
+/home/master/Documents/bootcamp/2020.01.28 Classmate_Arrays/classmate_arrays/bin/Debug/netcoreapp2.1/classmate_arrays.dll
+/home/master/Documents/bootcamp/2020.01.28 Classmate_Arrays/classmate_arrays/bin/Debug/netcoreapp2.1/classmate_arrays.pdb
+/home/master/Documents/bootcamp/2020.01.28 Classmate_Arrays/classmate_arrays/obj/Debug/netcoreapp2.1/classmate_arrays.csprojAssemblyReference.cache
+/home/master/Documents/bootcamp/2020.01.28 Classmate_Arrays/classmate_arrays/obj/Debug/netcoreapp2.1/classmate_arrays.csproj.CoreCompileInputs.cache
+/home/master/Documents/bootcamp/2020.01.28 Classmate_Arrays/classmate_arrays/obj/Debug/netcoreapp2.1/classmate_arrays.AssemblyInfoInputs.cache
+/home/master/Documents/bootcamp/2020.01.28 Classmate_Arrays/classmate_arrays/obj/Debug/netcoreapp2.1/classmate_arrays.AssemblyInfo.cs
+/home/master/Documents/bootcamp/2020.01.28 Classmate_Arrays/classmate_arrays/obj/Debug/netcoreapp2.1/classmate_arrays.dll
+/home/master/Documents/bootcamp/2020.01.28 Classmate_Arrays/classmate_arrays/obj/Debug/netcoreapp2.1/classmate_arrays.pdb
